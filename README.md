@@ -1,5 +1,5 @@
-#website url
-![url](https://covid-19-tracker2.web.app/)
+# webiste url
+[covid-19-tracker](https://covid-19-tracker2.web.app/)
 
 # Covid-19-tracker
 
